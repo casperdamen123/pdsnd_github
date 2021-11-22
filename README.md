@@ -20,5 +20,5 @@ The Chicago and New York City files also have the following two columns:
 - Birth Year
 
 ### Credits
-https://github.com/SadiqAlreemi/Explore-US-Bikeshare-Data
+The description is used from: https://github.com/SadiqAlreemi/Explore-US-Bikeshare-Data
 
