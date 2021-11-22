@@ -3,7 +3,7 @@
 ## Bikeshare data
 
 ### Description
-Small script to retrieve and serve bikeshare data
+Small script to retrieve and serve bikeshare data. Based on user input, the requested data is retrieved and shown.
 
 ### Data used
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
