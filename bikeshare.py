@@ -1,11 +1,11 @@
 import time
 import pandas as pd
 
-city_data = {
-    'chicago': 'chicago.csv',
-    'new york city': 'new_york_city.csv',
-    'washington': 'washington.csv'
-}
+city_data = dict(
+    chicago='chicago.csv',
+    new_york_city='new_york_city.csv',
+    washington= 'washington.csv'
+)
 
 def get_filters():
     """
